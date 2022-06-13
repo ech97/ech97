@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chanhyun Lee</h1>
 <h3 align="center">I am a student at Konkuk University</h3>
 
-- 🌱 I’m currently learning **Natural Language Processing, Robot Operating System**
+🌱 I’m currently learning **Natural Language Processing, Robot Operating System**
 
-- 📄 Contest
+📄 Contest
 > - Award for Excellence in Corporate Sponsorship @ 2021 Embedded Software Contest
 > - Korea Robotics Association President Award @ 2021 STEAMCUP IRC Home Service Challenge
 > - Award @ 2021 Engineering Festival
