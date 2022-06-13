@@ -7,7 +7,8 @@
 > - Award for Excellence in Corporate Sponsorship @ 2021 Embedded Software Contest
 > - Korea Robotics Association President Award @ 2021 STEAMCUP IRC Home Service Challenge
 > - Award @ 2021 Engineering Festival](Award for Excellence in Corporate Sponsorship @ 2021 Embedded Software Contest
-> - Korea Robotics Association President Award @ 2021 STEAMCUP IRC Home Service Challenge / Award @ 2021 Engineering Festival
+> - Korea Robotics Association President Award @ 2021 STEAMCUP IRC Home Service Challenge
+> - Award @ 2021 Engineering Festival
 
 
 <p align="left">
