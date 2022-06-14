@@ -8,8 +8,7 @@
 > - Korea Robotics Association President Award @ 2021 STEAMCUP IRC Home Service Challenge
 > - Award @ 2021 Engineering Festival
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ech97)](https://github.com/ech97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ech97&layout=compact)](https://github.com/ech97/github-readme-stats)
 
 <p align="left">
 </p>
