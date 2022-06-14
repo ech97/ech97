@@ -9,7 +9,7 @@
 > - Award @ 2021 Engineering Festival
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ech97)](https://github.com/ech97/github-readme-stats)
 
 <p align="left">
 </p>
